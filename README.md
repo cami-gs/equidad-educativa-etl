@@ -7,13 +7,13 @@
 Este proyecto demuestra competencias en **Gobernanza de Datos** a través de un análisis completo
 de equidad educativa en el sistema penitenciario chileno. Integra:
 
-- ✅ **Extracción de Datos Públicos** (Gendarmería, MINEDUC)
-- ✅ **Generación de Datos Sintéticos** (metodología documentada)
-- ✅ **Normalización 3NF** (modelo relacional)
-- ✅ **Carga en PostgreSQL** (integridad referencial)
-- ✅ **Análisis Comparativo** (5 indicadores clave)
-- ✅ **Visualización Profesional** (reporte HTML interactivo)
-- ✅ **Documentación Completa** (trazabilidad y reproducibilidad)
+- **Extracción de Datos Públicos** (Gendarmería, MINEDUC)
+- **Generación de Datos Sintéticos** (metodología documentada)
+- **Normalización 3NF** (modelo relacional)
+- **Carga en PostgreSQL** (integridad referencial)
+- **Análisis Comparativo** (5 indicadores clave)
+- **Visualización Profesional** (reporte HTML interactivo)
+- **Documentación Completa** (trazabilidad y reproducibilidad)
 
 ## Estructura del Proyecto
 
