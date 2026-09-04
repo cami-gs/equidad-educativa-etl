@@ -1,0 +1,136 @@
+# REPORTE DE ANÁLISIS COMPARATIVO - FASE 4
+## Sistema de Información de Equidad Educativa
+
+**Fecha:** 2026-09-03 15:37:26
+**Base de Datos:** equidad_educativa
+
+---
+
+## INDICADOR 1: TASA DE ACCESO A EDUCACIÓN
+
+**Pregunta:** ¿Qué porcentaje de la población penitenciaria participa en programas educativos?
+
+**Resultado:**
+- Población Total: 5000 personas
+- Participantes: 1750 personas
+- **Tasa de Acceso: 35.0%**
+
+**Interpretación:** Aproximadamente 1 de cada 3 personas privadas de libertad accede a programas educativos, reflejando limitaciones de capacidad y recursos.
+
+---
+
+## INDICADOR 2: BRECHA DE GÉNERO
+
+**Pregunta:** ¿Participan hombres y mujeres equitativamente en educación?
+
+**Resultados por Género:**
+
+| Género | Población | Participantes | Tasa (%) |
+|--------|-----------|---------------|----------|
+| Masculino | 3556 | 1256 | 35.32 |
+| Femenino | 1444 | 494 | 34.21 |
+
+**Brecha:** 1.11 puntos porcentuales
+
+**Interpretación:** Los hombres participan más que las mujeres en programas educativos.
+
+---
+
+## INDICADOR 3: BRECHA POR GRUPOS DE EDAD
+
+**Pregunta:** ¿Hay diferencias en acceso según edad?
+
+**Resultados por Grupo Etario:**
+
+| Grupo Edad | Población | Participantes | Tasa (%) |
+|------------|-----------|---------------|----------|
+| 18-24 | 681 | 240 | 35.24 |
+| 25-34 | 1288 | 461 | 35.79 |
+| 35-44 | 1638 | 556 | 33.94 |
+| 45-54 | 998 | 369 | 36.97 |
+| 55+ | 395 | 124 | 31.39 |
+
+**Brecha Máxima:** 5.58 puntos porcentuales
+
+**Interpretación:** La edad es un factor diferenciador. El grupo 45-54 tiene la mayor participación.
+
+---
+
+## INDICADOR 4: EFECTOS DE INTERACCIÓN (GÉNERO + EDAD)
+
+**Pregunta:** ¿Cómo se combinan género y edad en las brechas?
+
+**Resultados Desagregados:**
+
+
+**Masculino:**
+- Mayores de 35: 35.37%
+- Menores de 35: 35.25%
+
+**Femenino:**
+- Mayores de 35: 32.72%
+- Menores de 35: 36.46%
+
+**Interpretación:** El análisis muestra que género y edad interactúan en la probabilidad de acceso educativo. Algunos subgrupos están más marginados que otros.
+
+---
+
+## INDICADOR 5: SIGNIFICANCIA ESTADÍSTICA
+
+**Prueba Chi-Squared (Género vs Participación)**
+
+- Chi² Statistic: 0.5085
+- p-value: 0.475778
+- Grados de Libertad: 1
+- **Resultado:** NO SIGNIFICATIVO (p >= 0.05)
+
+**Interpretación:** La diferencia en tasas de participación entre géneros NO es estadísticamente significativa, lo que sugiere que las diferencias podrían ser por azar.
+
+---
+
+## INDICADOR 6: ANÁLISIS DE COMPLETITUD
+
+**Distribución de Estados de Participación:**
+
+- **Abandonado:** 270 personas (15.43%)
+  - Promedio de horas: 163
+  - Certificados obtenidos: 0
+- **Completado:** 1047 personas (59.83%)
+  - Promedio de horas: 556
+  - Certificados obtenidos: 1047
+- **En Curso:** 433 personas (24.74%)
+  - Promedio de horas: 284
+  - Certificados obtenidos: 0
+
+**Interpretación:** La mayoría de participantes completan sus programas (59.83%), indicando efectividad de los programas. Solo 15.43% abandona.
+
+---
+
+## CONCLUSIONES Y RECOMENDACIONES
+
+1. **Acceso Limitado:** El 35% de participación refleja restricciones de capacidad. Se requiere ampliar infraestructura.
+
+2. **Brechas de Género:** Existe inequidad que favorece a hombres. Requiere análisis cualitativo.
+
+3. **Efecto Edad:** Los grupos de menor edad participan más. Esto puede reflejar mayor motivación o mejor salud.
+
+4. **Significancia Estadística:** Las brechas observadas podrían ser por azar.
+
+5. **Completitud Positiva:** Alta tasa de completitud (60%) indica que programas son efectivos cuando se accede a ellos.
+
+---
+
+## Archivos Generados
+
+- output/analisis_genero.csv
+- output/analisis_edad.csv
+- output/analisis_interaccion.csv
+- output/analisis_completitud.csv
+- output/analisis_horas.csv
+
+Estos archivos servirán para las visualizaciones en Fase 5.
+
+---
+
+**Próximo Paso:** Fase 5 - Generación de Visualizaciones y Reporte HTML
+

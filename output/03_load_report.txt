@@ -1,0 +1,47 @@
+# REPORTE DE CARGA - FASE 3
+## Normalización y Carga en PostgreSQL
+
+**Fecha:** 2026-09-03 15:31:09
+**Proyecto:** Sistema de Información de Equidad Educativa
+**Base de Datos:** equidad_educativa
+
+---
+
+## Resumen de Carga
+
+### Tablas Dimensionales
+- **dim_establecimientos**: 10 registros
+- **dim_poblacion**: 5000 registros
+- **dim_educacion**: 5 registros
+
+### Tabla de Hechos
+- **fact_participacion_educativa**: 1750 registros
+
+---
+
+## Validación de Integridad Referencial
+
+✓ FK violations (poblacion): 0
+✓ FK violations (establecimientos): 0
+✓ FK violations (educacion): 0
+
+**Estado General:** EXITOSA
+
+---
+
+## Índices Creados
+
+- idx_poblacion_genero
+- idx_poblacion_edad
+- idx_participacion_estado
+- idx_participacion_fecha
+- idx_participacion_poblacion
+
+---
+
+## Próximos Pasos
+
+1. Ejecutar análisis comparativo (Fase 4: 04_comparative_analysis.py)
+2. Generar visualizaciones (Fase 5: 05_generate_report.py)
+3. Documentar y validar (Fase 6)
+
