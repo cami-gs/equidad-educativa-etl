@@ -138,7 +138,7 @@
 
 ## Resumen Ejecutivo de QA
 
-**Estado General**: ✅ EXITOSO
+**Estado General**: EXITOSO
 
 **Indicadores de Calidad**:
 - Completitud de datos: 100%
