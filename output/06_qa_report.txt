@@ -8,7 +8,7 @@
 
 ## Resumen Ejecutivo
 
-✅ **PROYECTO LISTO PARA GITHUB**
+**PROYECTO LISTO PARA GITHUB**
 
 Todas las validaciones completadas exitosamente.
 Documentación completa. Base de datos íntegra.
@@ -129,30 +129,30 @@ Documentación completa. Base de datos íntegra.
 
 ---
 
-## Competencias Demostradas
+## Competencias 
 
-### ✅ Arquitectura de Datos
+### Arquitectura de Datos
 - Modelo relacional 3NF con 5 tablas
 - Relaciones many-to-one documentadas
 - Integridad referencial en 100% de registros
 
-### ✅ Procesamiento de Datos
+### Procesamiento de Datos
 - Validación de calidad completa
 - Normalización a 3NF
 - Transformación de 2 fuentes en 5 tablas coherentes
 
-### ✅ Procesos ETL
+### Procesos ETL
 - Extracción documentada
 - Transformación con reglas explícitas
 - Carga exitosa en PostgreSQL 18
 
-### ✅ Gobernanza de Datos
+### Gobernanza de Datos
 - Documentación exhaustiva
 - Trazabilidad completa
 - Síntesis documentada y justificada
 - Transparencia sobre limitaciones
 
-### ✅ Base de Datos
+### Base de Datos
 - PostgreSQL 18 configurado
 - Índices para optimización
 - Backup y documentación
@@ -171,7 +171,7 @@ Documentación completa. Base de datos íntegra.
 
 ## Próximos Pasos
 
-1. ✅ Fase 6 completada exitosamente
+1. Fase 6 completada exitosamente
 2. → Ejecutar Fase 7: Git commit y push a GitHub
 3. → Presentar en entrevista de Data Governance
 
@@ -182,16 +182,14 @@ Documentación completa. Base de datos íntegra.
 El proyecto está **100% listo para presentación** en entrevista de Data Governance.
 
 Demuestra:
-- ✅ Dominio técnico completo (SQL, Python, PostgreSQL)
-- ✅ Pensamiento crítico (reconocimiento de limitaciones)
-- ✅ Gobernanza de datos (documentación, transparencia)
-- ✅ Experiencia personal (8 años en contexto penitenciario)
-- ✅ Reproducibilidad y calidad (seed fija, validaciones)
+- Dominio técnico completo (SQL, Python, PostgreSQL)
+- Pensamiento crítico (reconocimiento de limitaciones)
+- Gobernanza de datos (documentación, transparencia)
+- Experiencia personal (8 años en contexto penitenciario)
+- Reproducibilidad y calidad (seed fija, validaciones)
 
 ---
 
 **Responsable**: Camila Ignacia González Silva
-**Contexto**: Portfolio para Subsecretaría de Educación Parvularia
-**Estado**: ✅ LISTO PARA GITHUB Y PRESENTACIÓN
 
 03 de September de 2026
