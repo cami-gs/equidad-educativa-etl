@@ -106,10 +106,10 @@ Esta síntesis se basa en:
 
 ## Validación de Síntesis
 
-✅ **Coherencia interna**: Estructura lógica (edad > 18, hijos correlacionan con edad)
-✅ **Realismo**: Parámetros basados en observación de 8 años en contexto carcelario
-✅ **Documentación**: Cada decisión justificada y rastreable
-✅ **Transparencia**: Síntesis explícitamente identificada como tal
+**Coherencia interna**: Estructura lógica (edad > 18, hijos correlacionan con edad)
+**Realismo**: Parámetros basados en observación de 8 años en contexto carcelario
+**Documentación**: Cada decisión justificada y rastreable
+**Transparencia**: Síntesis explícitamente identificada como tal
 
 ---
 
@@ -128,13 +128,13 @@ Esta síntesis se basa en:
 
 ## Uso Apropiado de Esta Síntesis
 
-✅ **Apropiado para**:
+**Apropiado para**:
 - Portfolio técnico de gobernanza de datos
 - Demostración de pipelines ETL
 - Desarrollo de dashboards y análisis
 - Propósitos educativos
 
-❌ **NO apropiado para**:
+**NO apropiado para**:
 - Inferencias sobre población penitenciaria real
 - Políticas públicas
 - Estudios académicos (sin aclaración explícita de síntesis)
