@@ -1,6 +1,6 @@
-# 🎓 Sistema de Información de Equidad Educativa
+# Sistema de Información de Equidad Educativa
 
-**Análisis Comparativo de Acceso Educativo en Contextos Penitenciarios Chilenos**
+**Análisis comparativo de acceso educativo en contextos penitenciarios chilenos**
 
 ## Descripción General
 
@@ -113,38 +113,6 @@ Abre en navegador:
 output/reporte_equidad_educativa.html
 ```
 
-## Competencias Demostradas
-
-### 1. Arquitectura de Datos ✓
-- Modelo relacional 3NF (5 tablas)
-- Fact-dimension schema
-- Integridad referencial (FKs)
-- Índices para optimización
-
-### 2. Procesamiento de Datos ✓
-- Validación de calidad (datos faltantes, duplicados)
-- Limpieza y normalización
-- Transformación ETL
-- Estadísticas descriptivas
-
-### 3. Procesos ETL ✓
-- Extracción de múltiples fuentes
-- Transformación a 3NF
-- Carga en PostgreSQL
-- Documentación de síntesis
-
-### 4. Gobernanza de Datos ✓
-- Control de calidad
-- Trazabilidad completa
-- Documentación exhaustiva
-- Reproducibilidad (seed=42)
-- Validación estadística
-
-### 5. Base de Datos ✓
-- Creación de esquema
-- Relaciones y constraints
-- Índices para consultas
-- Backup y documentación
 
 ## Metodología
 
@@ -183,11 +151,6 @@ NO deben usarse para inferencias sobre población real o política pública sin 
 
 Responsable: Camila Ignacia González Silva
 
-## Contacto y Consultas
-
-- **Email**: cami.pinha.sa@gmail.com
-- **Contexto**: Portfolio para postulación a posición de Data Governance
-  en Subsecretaría de Educación Parvularia, Departamento de Estudios y Estadísticas
 
 ---
 
