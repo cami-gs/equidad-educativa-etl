@@ -5,7 +5,7 @@
 
 Demostrar competencias en **Gobernanza de Datos** mediante un análisis completo
 de equidad educativa en el sistema penitenciario chileno, desde extracción de datos públicos
-hasta análisis comparativo y visualización profesional.
+hasta análisis comparativo y visualización.
 
 ### Objetivos Específicos
 
@@ -17,10 +17,10 @@ hasta análisis comparativo y visualización profesional.
 
 ### Fases del Proyecto
 
-#### Fase 1: Extracción y Validación de Datos Públicos
+#### Fase 1: Extracción y validación de datos públicos
 
 **Fuentes**:
-- Gendarmería de Chile: Datos demográficos agregados (Portal datos.gob.cl)
+- Gendarmería de Chile: Datos demográficos agregados 
 - MINEDUC: Estadísticas de matrícula pública (Portal datos.gob.cl)
 
 **Validaciones ejecutadas**:
